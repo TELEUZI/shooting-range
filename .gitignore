@@ -12,6 +12,7 @@
 obj
 Lab_2.csproj
 Lab_2.sln
+bin
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
